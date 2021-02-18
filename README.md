@@ -10,3 +10,4 @@ Source for micropython development.
 ## sensors
 ### RotaryEncoder
 ### BiColorLed
+### FlameSensor
