@@ -11,3 +11,4 @@ Source for micropython development.
 ### RotaryEncoder
 ### BiColorLed
 ### FlameSensor
+### Dht11Sensor
