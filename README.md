@@ -13,3 +13,4 @@ Source for micropython development.
 ### FlameSensor
 ### Dht11Sensor
 ### Ttp224Keypad
+### ReedSwitch
